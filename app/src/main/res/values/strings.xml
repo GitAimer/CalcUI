@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcUI</string>
+    <string name="daikuan">贷款</string>
+    <string name="jisuan">计算</string>
+    <string name="geshui">个税</string>
+    <string name="putong">普通贷款</string>
+    <string name="gongjijin">公积金贷款</string>
+    <string name="zuhe">组合贷款</string>
+</resources>
